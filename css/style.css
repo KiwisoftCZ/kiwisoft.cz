@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .gtco-cover {
-  height: 900px;
+  height: 100vh;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
